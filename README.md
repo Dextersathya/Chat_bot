@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your project:
 
----
 
 # [Demo] Llama 3 Basic Prompt (w/ RAG)
 
